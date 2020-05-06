@@ -7,6 +7,6 @@ public class RotationObj : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.gameObject.transform.Rotate(Vector3.up, 50f * Time.deltaTime);
+        this.gameObject.transform.Rotate(Vector3.right, 50f * Time.deltaTime);
     }
 }
