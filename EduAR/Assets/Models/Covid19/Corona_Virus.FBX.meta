@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 6822c25cec4d03d4f95aef7e5c27eba8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arch46_028_1
+    100002: Arch46_028_1 1
+    100004: Arch46_028_1 10
+    100006: Arch46_028_1 11
+    100008: Arch46_028_1 12
+    100010: Arch46_028_1 13
+    100012: Arch46_028_1 14
+    100014: Arch46_028_1 15
+    100016: Arch46_028_1 16
+    100018: Arch46_028_1 17
+    100020: Arch46_028_1 18
+    100022: Arch46_028_1 19
+    100024: Arch46_028_1 2
+    100026: Arch46_028_1 20
+    100028: Arch46_028_1 21
+    100030: Arch46_028_1 22
+    100032: Arch46_028_1 23
+    100034: Arch46_028_1 24
+    100036: Arch46_028_1 25
+    100038: Arch46_028_1 26
+    100040: Arch46_028_1 27
+    100042: Arch46_028_1 28
+    100044: Arch46_028_1 29
+    100046: Arch46_028_1 3
+    100048: Arch46_028_1 30
+    100050: Arch46_028_1 31
+    100052: Arch46_028_1 32
+    100054: Arch46_028_1 33
+    100056: Arch46_028_1 34
+    100058: Arch46_028_1 35
+    100060: Arch46_028_1 36
+    100062: Arch46_028_1 37
+    100064: Arch46_028_1 38
+    100066: Arch46_028_1 39
+    100068: Arch46_028_1 4
+    100070: Arch46_028_1 40
+    100072: Arch46_028_1 41
+    100074: Arch46_028_1 42
+    100076: Arch46_028_1 43
+    100078: Arch46_028_1 44
+    100080: Arch46_028_1 45
+    100082: Arch46_028_1 46
+    100084: Arch46_028_1 47
+    100086: Arch46_028_1 5
+    100088: Arch46_028_1 6
+    100090: Arch46_028_1 7
+    100092: Arch46_028_1 8
+    100094: Arch46_028_1 9
+    100096: Arch46_037_1
+    100098: Arch46_037_1 1
+    100100: Arch46_037_1 10
+    100102: Arch46_037_1 11
+    100104: Arch46_037_1 12
+    100106: Arch46_037_1 13
+    100108: Arch46_037_1 14
+    100110: Arch46_037_1 15
+    100112: Arch46_037_1 16
+    100114: Arch46_037_1 17
+    100116: Arch46_037_1 18
+    100118: Arch46_037_1 19
+    100120: Arch46_037_1 2
+    100122: Arch46_037_1 20
+    100124: Arch46_037_1 21
+    100126: Arch46_037_1 22
+    100128: Arch46_037_1 23
+    100130: Arch46_037_1 24
+    100132: Arch46_037_1 25
+    100134: Arch46_037_1 26
+    100136: Arch46_037_1 27
+    100138: Arch46_037_1 28
+    100140: Arch46_037_1 29
+    100142: Arch46_037_1 3
+    100144: Arch46_037_1 30
+    100146: Arch46_037_1 31
+    100148: Arch46_037_1 32
+    100150: Arch46_037_1 33
+    100152: Arch46_037_1 34
+    100154: Arch46_037_1 35
+    100156: Arch46_037_1 36
+    100158: Arch46_037_1 37
+    100160: Arch46_037_1 38
+    100162: Arch46_037_1 39
+    100164: Arch46_037_1 4
+    100166: Arch46_037_1 40
+    100168: Arch46_037_1 41
+    100170: Arch46_037_1 42
+    100172: Arch46_037_1 43
+    100174: Arch46_037_1 44
+    100176: Arch46_037_1 45
+    100178: Arch46_037_1 46
+    100180: Arch46_037_1 47
+    100182: Arch46_037_1 5
+    100184: Arch46_037_1 6
+    100186: Arch46_037_1 7
+    100188: Arch46_037_1 8
+    100190: Arch46_037_1 9
+    100192: GeoSphere002
+    100194: Object004
+    100196: Particle View 001
+    100198: Particle View 001 1
+    100200: Particle View 001 10
+    100202: Particle View 001 11
+    100204: Particle View 001 12
+    100206: Particle View 001 13
+    100208: Particle View 001 14
+    100210: Particle View 001 15
+    100212: Particle View 001 16
+    100214: Particle View 001 17
+    100216: Particle View 001 18
+    100218: Particle View 001 19
+    100220: Particle View 001 2
+    100222: Particle View 001 20
+    100224: Particle View 001 21
+    100226: Particle View 001 22
+    100228: Particle View 001 23
+    100230: Particle View 001 24
+    100232: Particle View 001 25
+    100234: Particle View 001 26
+    100236: Particle View 001 27
+    100238: Particle View 001 28
+    100240: Particle View 001 29
+    100242: Particle View 001 3
+    100244: Particle View 001 30
+    100246: Particle View 001 31
+    100248: Particle View 001 32
+    100250: Particle View 001 33
+    100252: Particle View 001 34
+    100254: Particle View 001 35
+    100256: Particle View 001 36
+    100258: Particle View 001 37
+    100260: Particle View 001 38
+    100262: Particle View 001 39
+    100264: Particle View 001 4
+    100266: Particle View 001 40
+    100268: Particle View 001 41
+    100270: Particle View 001 42
+    100272: Particle View 001 43
+    100274: Particle View 001 44
+    100276: Particle View 001 45
+    100278: Particle View 001 46
+    100280: Particle View 001 47
+    100282: Particle View 001 48
+    100284: Particle View 001 49
+    100286: Particle View 001 5
+    100288: Particle View 001 50
+    100290: Particle View 001 51
+    100292: Particle View 001 52
+    100294: Particle View 001 53
+    100296: Particle View 001 54
+    100298: Particle View 001 55
+    100300: Particle View 001 56
+    100302: Particle View 001 57
+    100304: Particle View 001 58
+    100306: Particle View 001 59
+    100308: Particle View 001 6
+    100310: Particle View 001 60
+    100312: Particle View 001 61
+    100314: Particle View 001 62
+    100316: Particle View 001 63
+    100318: Particle View 001 64
+    100320: Particle View 001 65
+    100322: Particle View 001 66
+    100324: Particle View 001 67
+    100326: Particle View 001 68
+    100328: Particle View 001 69
+    100330: Particle View 001 7
+    100332: Particle View 001 70
+    100334: Particle View 001 71
+    100336: Particle View 001 72
+    100338: Particle View 001 73
+    100340: Particle View 001 74
+    100342: Particle View 001 75
+    100344: Particle View 001 76
+    100346: Particle View 001 77
+    100348: Particle View 001 78
+    100350: Particle View 001 79
+    100352: Particle View 001 8
+    100354: Particle View 001 80
+    100356: Particle View 001 81
+    100358: Particle View 001 82
+    100360: Particle View 001 83
+    100362: Particle View 001 84
+    100364: Particle View 001 85
+    100366: Particle View 001 86
+    100368: Particle View 001 87
+    100370: Particle View 001 88
+    100372: Particle View 001 89
+    100374: Particle View 001 9
+    100376: Particle View 001 90
+    100378: Particle View 001 91
+    100380: Particle View 001 92
+    100382: Particle View 001 93
+    100384: Particle View 001 94
+    100386: Particle View 001 95
+    100388: Particle View 002
+    100390: Particle View 002 1
+    100392: Particle View 002 10
+    100394: Particle View 002 11
+    100396: Particle View 002 12
+    100398: Particle View 002 13
+    100400: Particle View 002 14
+    100402: Particle View 002 15
+    100404: Particle View 002 16
+    100406: Particle View 002 17
+    100408: Particle View 002 18
+    100410: Particle View 002 19
+    100412: Particle View 002 2
+    100414: Particle View 002 20
+    100416: Particle View 002 21
+    100418: Particle View 002 22
+    100420: Particle View 002 23
+    100422: Particle View 002 24
+    100424: Particle View 002 25
+    100426: Particle View 002 26
+    100428: Particle View 002 27
+    100430: Particle View 002 28
+    100432: Particle View 002 29
+    100434: Particle View 002 3
+    100436: Particle View 002 30
+    100438: Particle View 002 31
+    100440: Particle View 002 32
+    100442: Particle View 002 33
+    100444: Particle View 002 34
+    100446: Particle View 002 35
+    100448: Particle View 002 36
+    100450: Particle View 002 37
+    100452: Particle View 002 38
+    100454: Particle View 002 39
+    100456: Particle View 002 4
+    100458: Particle View 002 40
+    100460: Particle View 002 41
+    100462: Particle View 002 42
+    100464: Particle View 002 43
+    100466: Particle View 002 44
+    100468: Particle View 002 45
+    100470: Particle View 002 46
+    100472: Particle View 002 47
+    100474: Particle View 002 5
+    100476: Particle View 002 6
+    100478: Particle View 002 7
+    100480: Particle View 002 8
+    100482: Particle View 002 9
+    100484: Particle View 003
+    100486: Particle View 003 1
+    100488: Particle View 003 10
+    100490: Particle View 003 11
+    100492: Particle View 003 12
+    100494: Particle View 003 13
+    100496: Particle View 003 14
+    100498: Particle View 003 15
+    100500: Particle View 003 16
+    100502: Particle View 003 17
+    100504: Particle View 003 18
+    100506: Particle View 003 19
+    100508: Particle View 003 2
+    100510: Particle View 003 20
+    100512: Particle View 003 21
+    100514: Particle View 003 22
+    100516: Particle View 003 23
+    100518: Particle View 003 24
+    100520: Particle View 003 25
+    100522: Particle View 003 26
+    100524: Particle View 003 27
+    100526: Particle View 003 28
+    100528: Particle View 003 29
+    100530: Particle View 003 3
+    100532: Particle View 003 30
+    100534: Particle View 003 31
+    100536: Particle View 003 32
+    100538: Particle View 003 33
+    100540: Particle View 003 34
+    100542: Particle View 003 35
+    100544: Particle View 003 36
+    100546: Particle View 003 37
+    100548: Particle View 003 38
+    100550: Particle View 003 39
+    100552: Particle View 003 4
+    100554: Particle View 003 40
+    100556: Particle View 003 41
+    100558: Particle View 003 42
+    100560: Particle View 003 43
+    100562: Particle View 003 44
+    100564: Particle View 003 45
+    100566: Particle View 003 46
+    100568: Particle View 003 47
+    100570: Particle View 003 5
+    100572: Particle View 003 6
+    100574: Particle View 003 7
+    100576: Particle View 003 8
+    100578: Particle View 003 9
+    100580: Particle View 01
+    100582: Particle View 01 1
+    100584: Particle View 01 10
+    100586: Particle View 01 11
+    100588: Particle View 01 12
+    100590: Particle View 01 13
+    100592: Particle View 01 14
+    100594: Particle View 01 15
+    100596: Particle View 01 16
+    100598: Particle View 01 17
+    100600: Particle View 01 18
+    100602: Particle View 01 19
+    100604: Particle View 01 2
+    100606: Particle View 01 20
+    100608: Particle View 01 21
+    100610: Particle View 01 22
+    100612: Particle View 01 23
+    100614: Particle View 01 24
+    100616: Particle View 01 25
+    100618: Particle View 01 26
+    100620: Particle View 01 27
+    100622: Particle View 01 28
+    100624: Particle View 01 29
+    100626: Particle View 01 3
+    100628: Particle View 01 30
+    100630: Particle View 01 31
+    100632: Particle View 01 32
+    100634: Particle View 01 33
+    100636: Particle View 01 34
+    100638: Particle View 01 35
+    100640: Particle View 01 36
+    100642: Particle View 01 37
+    100644: Particle View 01 38
+    100646: Particle View 01 39
+    100648: Particle View 01 4
+    100650: Particle View 01 40
+    100652: Particle View 01 41
+    100654: Particle View 01 42
+    100656: Particle View 01 43
+    100658: Particle View 01 44
+    100660: Particle View 01 45
+    100662: Particle View 01 46
+    100664: Particle View 01 47
+    100666: Particle View 01 48
+    100668: Particle View 01 49
+    100670: Particle View 01 5
+    100672: Particle View 01 50
+    100674: Particle View 01 51
+    100676: Particle View 01 52
+    100678: Particle View 01 53
+    100680: Particle View 01 54
+    100682: Particle View 01 55
+    100684: Particle View 01 56
+    100686: Particle View 01 57
+    100688: Particle View 01 58
+    100690: Particle View 01 59
+    100692: Particle View 01 6
+    100694: Particle View 01 60
+    100696: Particle View 01 61
+    100698: Particle View 01 62
+    100700: Particle View 01 63
+    100702: Particle View 01 64
+    100704: Particle View 01 65
+    100706: Particle View 01 66
+    100708: Particle View 01 67
+    100710: Particle View 01 68
+    100712: Particle View 01 69
+    100714: Particle View 01 7
+    100716: Particle View 01 70
+    100718: Particle View 01 71
+    100720: Particle View 01 72
+    100722: Particle View 01 73
+    100724: Particle View 01 74
+    100726: Particle View 01 75
+    100728: Particle View 01 76
+    100730: Particle View 01 77
+    100732: Particle View 01 78
+    100734: Particle View 01 79
+    100736: Particle View 01 8
+    100738: Particle View 01 80
+    100740: Particle View 01 81
+    100742: Particle View 01 82
+    100744: Particle View 01 83
+    100746: Particle View 01 84
+    100748: Particle View 01 85
+    100750: Particle View 01 86
+    100752: Particle View 01 87
+    100754: Particle View 01 88
+    100756: Particle View 01 89
+    100758: Particle View 01 9
+    100760: Particle View 01 90
+    100762: Particle View 01 91
+    100764: Particle View 01 92
+    100766: Particle View 01 93
+    100768: Particle View 01 94
+    100770: Particle View 01 95
+    100772: Sphere007
+    100774: Sphere008
+    100776: //RootNode
+    400000: Arch46_028_1
+    400002: Arch46_028_1 1
+    400004: Arch46_028_1 10
+    400006: Arch46_028_1 11
+    400008: Arch46_028_1 12
+    400010: Arch46_028_1 13
+    400012: Arch46_028_1 14
+    400014: Arch46_028_1 15
+    400016: Arch46_028_1 16
+    400018: Arch46_028_1 17
+    400020: Arch46_028_1 18
+    400022: Arch46_028_1 19
+    400024: Arch46_028_1 2
+    400026: Arch46_028_1 20
+    400028: Arch46_028_1 21
+    400030: Arch46_028_1 22
+    400032: Arch46_028_1 23
+    400034: Arch46_028_1 24
+    400036: Arch46_028_1 25
+    400038: Arch46_028_1 26
+    400040: Arch46_028_1 27
+    400042: Arch46_028_1 28
+    400044: Arch46_028_1 29
+    400046: Arch46_028_1 3
+    400048: Arch46_028_1 30
+    400050: Arch46_028_1 31
+    400052: Arch46_028_1 32
+    400054: Arch46_028_1 33
+    400056: Arch46_028_1 34
+    400058: Arch46_028_1 35
+    400060: Arch46_028_1 36
+    400062: Arch46_028_1 37
+    400064: Arch46_028_1 38
+    400066: Arch46_028_1 39
+    400068: Arch46_028_1 4
+    400070: Arch46_028_1 40
+    400072: Arch46_028_1 41
+    400074: Arch46_028_1 42
+    400076: Arch46_028_1 43
+    400078: Arch46_028_1 44
+    400080: Arch46_028_1 45
+    400082: Arch46_028_1 46
+    400084: Arch46_028_1 47
+    400086: Arch46_028_1 5
+    400088: Arch46_028_1 6
+    400090: Arch46_028_1 7
+    400092: Arch46_028_1 8
+    400094: Arch46_028_1 9
+    400096: Arch46_037_1
+    400098: Arch46_037_1 1
+    400100: Arch46_037_1 10
+    400102: Arch46_037_1 11
+    400104: Arch46_037_1 12
+    400106: Arch46_037_1 13
+    400108: Arch46_037_1 14
+    400110: Arch46_037_1 15
+    400112: Arch46_037_1 16
+    400114: Arch46_037_1 17
+    400116: Arch46_037_1 18
+    400118: Arch46_037_1 19
+    400120: Arch46_037_1 2
+    400122: Arch46_037_1 20
+    400124: Arch46_037_1 21
+    400126: Arch46_037_1 22
+    400128: Arch46_037_1 23
+    400130: Arch46_037_1 24
+    400132: Arch46_037_1 25
+    400134: Arch46_037_1 26
+    400136: Arch46_037_1 27
+    400138: Arch46_037_1 28
+    400140: Arch46_037_1 29
+    400142: Arch46_037_1 3
+    400144: Arch46_037_1 30
+    400146: Arch46_037_1 31
+    400148: Arch46_037_1 32
+    400150: Arch46_037_1 33
+    400152: Arch46_037_1 34
+    400154: Arch46_037_1 35
+    400156: Arch46_037_1 36
+    400158: Arch46_037_1 37
+    400160: Arch46_037_1 38
+    400162: Arch46_037_1 39
+    400164: Arch46_037_1 4
+    400166: Arch46_037_1 40
+    400168: Arch46_037_1 41
+    400170: Arch46_037_1 42
+    400172: Arch46_037_1 43
+    400174: Arch46_037_1 44
+    400176: Arch46_037_1 45
+    400178: Arch46_037_1 46
+    400180: Arch46_037_1 47
+    400182: Arch46_037_1 5
+    400184: Arch46_037_1 6
+    400186: Arch46_037_1 7
+    400188: Arch46_037_1 8
+    400190: Arch46_037_1 9
+    400192: GeoSphere002
+    400194: Object004
+    400196: Particle View 001
+    400198: Particle View 001 1
+    400200: Particle View 001 10
+    400202: Particle View 001 11
+    400204: Particle View 001 12
+    400206: Particle View 001 13
+    400208: Particle View 001 14
+    400210: Particle View 001 15
+    400212: Particle View 001 16
+    400214: Particle View 001 17
+    400216: Particle View 001 18
+    400218: Particle View 001 19
+    400220: Particle View 001 2
+    400222: Particle View 001 20
+    400224: Particle View 001 21
+    400226: Particle View 001 22
+    400228: Particle View 001 23
+    400230: Particle View 001 24
+    400232: Particle View 001 25
+    400234: Particle View 001 26
+    400236: Particle View 001 27
+    400238: Particle View 001 28
+    400240: Particle View 001 29
+    400242: Particle View 001 3
+    400244: Particle View 001 30
+    400246: Particle View 001 31
+    400248: Particle View 001 32
+    400250: Particle View 001 33
+    400252: Particle View 001 34
+    400254: Particle View 001 35
+    400256: Particle View 001 36
+    400258: Particle View 001 37
+    400260: Particle View 001 38
+    400262: Particle View 001 39
+    400264: Particle View 001 4
+    400266: Particle View 001 40
+    400268: Particle View 001 41
+    400270: Particle View 001 42
+    400272: Particle View 001 43
+    400274: Particle View 001 44
+    400276: Particle View 001 45
+    400278: Particle View 001 46
+    400280: Particle View 001 47
+    400282: Particle View 001 48
+    400284: Particle View 001 49
+    400286: Particle View 001 5
+    400288: Particle View 001 50
+    400290: Particle View 001 51
+    400292: Particle View 001 52
+    400294: Particle View 001 53
+    400296: Particle View 001 54
+    400298: Particle View 001 55
+    400300: Particle View 001 56
+    400302: Particle View 001 57
+    400304: Particle View 001 58
+    400306: Particle View 001 59
+    400308: Particle View 001 6
+    400310: Particle View 001 60
+    400312: Particle View 001 61
+    400314: Particle View 001 62
+    400316: Particle View 001 63
+    400318: Particle View 001 64
+    400320: Particle View 001 65
+    400322: Particle View 001 66
+    400324: Particle View 001 67
+    400326: Particle View 001 68
+    400328: Particle View 001 69
+    400330: Particle View 001 7
+    400332: Particle View 001 70
+    400334: Particle View 001 71
+    400336: Particle View 001 72
+    400338: Particle View 001 73
+    400340: Particle View 001 74
+    400342: Particle View 001 75
+    400344: Particle View 001 76
+    400346: Particle View 001 77
+    400348: Particle View 001 78
+    400350: Particle View 001 79
+    400352: Particle View 001 8
+    400354: Particle View 001 80
+    400356: Particle View 001 81
+    400358: Particle View 001 82
+    400360: Particle View 001 83
+    400362: Particle View 001 84
+    400364: Particle View 001 85
+    400366: Particle View 001 86
+    400368: Particle View 001 87
+    400370: Particle View 001 88
+    400372: Particle View 001 89
+    400374: Particle View 001 9
+    400376: Particle View 001 90
+    400378: Particle View 001 91
+    400380: Particle View 001 92
+    400382: Particle View 001 93
+    400384: Particle View 001 94
+    400386: Particle View 001 95
+    400388: Particle View 002
+    400390: Particle View 002 1
+    400392: Particle View 002 10
+    400394: Particle View 002 11
+    400396: Particle View 002 12
+    400398: Particle View 002 13
+    400400: Particle View 002 14
+    400402: Particle View 002 15
+    400404: Particle View 002 16
+    400406: Particle View 002 17
+    400408: Particle View 002 18
+    400410: Particle View 002 19
+    400412: Particle View 002 2
+    400414: Particle View 002 20
+    400416: Particle View 002 21
+    400418: Particle View 002 22
+    400420: Particle View 002 23
+    400422: Particle View 002 24
+    400424: Particle View 002 25
+    400426: Particle View 002 26
+    400428: Particle View 002 27
+    400430: Particle View 002 28
+    400432: Particle View 002 29
+    400434: Particle View 002 3
+    400436: Particle View 002 30
+    400438: Particle View 002 31
+    400440: Particle View 002 32
+    400442: Particle View 002 33
+    400444: Particle View 002 34
+    400446: Particle View 002 35
+    400448: Particle View 002 36
+    400450: Particle View 002 37
+    400452: Particle View 002 38
+    400454: Particle View 002 39
+    400456: Particle View 002 4
+    400458: Particle View 002 40
+    400460: Particle View 002 41
+    400462: Particle View 002 42
+    400464: Particle View 002 43
+    400466: Particle View 002 44
+    400468: Particle View 002 45
+    400470: Particle View 002 46
+    400472: Particle View 002 47
+    400474: Particle View 002 5
+    400476: Particle View 002 6
+    400478: Particle View 002 7
+    400480: Particle View 002 8
+    400482: Particle View 002 9
+    400484: Particle View 003
+    400486: Particle View 003 1
+    400488: Particle View 003 10
+    400490: Particle View 003 11
+    400492: Particle View 003 12
+    400494: Particle View 003 13
+    400496: Particle View 003 14
+    400498: Particle View 003 15
+    400500: Particle View 003 16
+    400502: Particle View 003 17
+    400504: Particle View 003 18
+    400506: Particle View 003 19
+    400508: Particle View 003 2
+    400510: Particle View 003 20
+    400512: Particle View 003 21
+    400514: Particle View 003 22
+    400516: Particle View 003 23
+    400518: Particle View 003 24
+    400520: Particle View 003 25
+    400522: Particle View 003 26
+    400524: Particle View 003 27
+    400526: Particle View 003 28
+    400528: Particle View 003 29
+    400530: Particle View 003 3
+    400532: Particle View 003 30
+    400534: Particle View 003 31
+    400536: Particle View 003 32
+    400538: Particle View 003 33
+    400540: Particle View 003 34
+    400542: Particle View 003 35
+    400544: Particle View 003 36
+    400546: Particle View 003 37
+    400548: Particle View 003 38
+    400550: Particle View 003 39
+    400552: Particle View 003 4
+    400554: Particle View 003 40
+    400556: Particle View 003 41
+    400558: Particle View 003 42
+    400560: Particle View 003 43
+    400562: Particle View 003 44
+    400564: Particle View 003 45
+    400566: Particle View 003 46
+    400568: Particle View 003 47
+    400570: Particle View 003 5
+    400572: Particle View 003 6
+    400574: Particle View 003 7
+    400576: Particle View 003 8
+    400578: Particle View 003 9
+    400580: Particle View 01
+    400582: Particle View 01 1
+    400584: Particle View 01 10
+    400586: Particle View 01 11
+    400588: Particle View 01 12
+    400590: Particle View 01 13
+    400592: Particle View 01 14
+    400594: Particle View 01 15
+    400596: Particle View 01 16
+    400598: Particle View 01 17
+    400600: Particle View 01 18
+    400602: Particle View 01 19
+    400604: Particle View 01 2
+    400606: Particle View 01 20
+    400608: Particle View 01 21
+    400610: Particle View 01 22
+    400612: Particle View 01 23
+    400614: Particle View 01 24
+    400616: Particle View 01 25
+    400618: Particle View 01 26
+    400620: Particle View 01 27
+    400622: Particle View 01 28
+    400624: Particle View 01 29
+    400626: Particle View 01 3
+    400628: Particle View 01 30
+    400630: Particle View 01 31
+    400632: Particle View 01 32
+    400634: Particle View 01 33
+    400636: Particle View 01 34
+    400638: Particle View 01 35
+    400640: Particle View 01 36
+    400642: Particle View 01 37
+    400644: Particle View 01 38
+    400646: Particle View 01 39
+    400648: Particle View 01 4
+    400650: Particle View 01 40
+    400652: Particle View 01 41
+    400654: Particle View 01 42
+    400656: Particle View 01 43
+    400658: Particle View 01 44
+    400660: Particle View 01 45
+    400662: Particle View 01 46
+    400664: Particle View 01 47
+    400666: Particle View 01 48
+    400668: Particle View 01 49
+    400670: Particle View 01 5
+    400672: Particle View 01 50
+    400674: Particle View 01 51
+    400676: Particle View 01 52
+    400678: Particle View 01 53
+    400680: Particle View 01 54
+    400682: Particle View 01 55
+    400684: Particle View 01 56
+    400686: Particle View 01 57
+    400688: Particle View 01 58
+    400690: Particle View 01 59
+    400692: Particle View 01 6
+    400694: Particle View 01 60
+    400696: Particle View 01 61
+    400698: Particle View 01 62
+    400700: Particle View 01 63
+    400702: Particle View 01 64
+    400704: Particle View 01 65
+    400706: Particle View 01 66
+    400708: Particle View 01 67
+    400710: Particle View 01 68
+    400712: Particle View 01 69
+    400714: Particle View 01 7
+    400716: Particle View 01 70
+    400718: Particle View 01 71
+    400720: Particle View 01 72
+    400722: Particle View 01 73
+    400724: Particle View 01 74
+    400726: Particle View 01 75
+    400728: Particle View 01 76
+    400730: Particle View 01 77
+    400732: Particle View 01 78
+    400734: Particle View 01 79
+    400736: Particle View 01 8
+    400738: Particle View 01 80
+    400740: Particle View 01 81
+    400742: Particle View 01 82
+    400744: Particle View 01 83
+    400746: Particle View 01 84
+    400748: Particle View 01 85
+    400750: Particle View 01 86
+    400752: Particle View 01 87
+    400754: Particle View 01 88
+    400756: Particle View 01 89
+    400758: Particle View 01 9
+    400760: Particle View 01 90
+    400762: Particle View 01 91
+    400764: Particle View 01 92
+    400766: Particle View 01 93
+    400768: Particle View 01 94
+    400770: Particle View 01 95
+    400772: Sphere007
+    400774: Sphere008
+    400776: //RootNode
+    2100000: Plastic
+    2100002: Frosted_Glass
+    2100004: asd
+    2100006: asddsd
+    2300000: GeoSphere002
+    2300002: Object004
+    2300004: Sphere007
+    2300006: Sphere008
+    3300000: GeoSphere002
+    3300002: Object004
+    3300004: Sphere007
+    3300006: Sphere008
+    4300000: GeoSphere002
+    4300002: Object004
+    4300004: Sphere007
+    4300006: Sphere008
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
